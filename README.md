@@ -15,3 +15,6 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title --- Yay!
+
+![Homepage](./Develop/assets/images/Screenshot%202022-06-17%20152616.png)
+![Page-2](./Develop/assets/images/Screenshot%202022-06-17%20152530.png)
